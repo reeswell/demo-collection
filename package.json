@@ -20,7 +20,7 @@
     "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/svg-sprite": "^1.0.2",
     "@vueuse/integrations": "^12.8.2",
-    "vue-horizontal-scrollbar": "^0.0.2"
+    "vue-horizontal-scrollbar": "^0.1.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.4.0",
